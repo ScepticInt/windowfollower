@@ -1,0 +1,17 @@
+C:\Users\Tomas\source\repos\windowfollower\windowfollower\bin\Debug\windowfollower.exe.config
+C:\Users\Tomas\source\repos\windowfollower\windowfollower\bin\Debug\windowfollower.exe
+C:\Users\Tomas\source\repos\windowfollower\windowfollower\bin\Debug\windowfollower.pdb
+C:\Users\Tomas\source\repos\windowfollower\windowfollower\obj\Debug\windowfollower.csprojResolveAssemblyReference.cache
+C:\Users\Tomas\source\repos\windowfollower\windowfollower\obj\Debug\view\childWindow.g.cs
+C:\Users\Tomas\source\repos\windowfollower\windowfollower\obj\Debug\view\MainWindow.g.cs
+C:\Users\Tomas\source\repos\windowfollower\windowfollower\obj\Debug\App.g.cs
+C:\Users\Tomas\source\repos\windowfollower\windowfollower\obj\Debug\windowfollower_MarkupCompile.cache
+C:\Users\Tomas\source\repos\windowfollower\windowfollower\obj\Debug\windowfollower_MarkupCompile.lref
+C:\Users\Tomas\source\repos\windowfollower\windowfollower\obj\Debug\view\childWindow.baml
+C:\Users\Tomas\source\repos\windowfollower\windowfollower\obj\Debug\view\MainWindow.baml
+C:\Users\Tomas\source\repos\windowfollower\windowfollower\obj\Debug\windowfollower.g.resources
+C:\Users\Tomas\source\repos\windowfollower\windowfollower\obj\Debug\windowfollower.Properties.Resources.resources
+C:\Users\Tomas\source\repos\windowfollower\windowfollower\obj\Debug\windowfollower.csproj.GenerateResource.Cache
+C:\Users\Tomas\source\repos\windowfollower\windowfollower\obj\Debug\windowfollower.csproj.CoreCompileInputs.cache
+C:\Users\Tomas\source\repos\windowfollower\windowfollower\obj\Debug\windowfollower.exe
+C:\Users\Tomas\source\repos\windowfollower\windowfollower\obj\Debug\windowfollower.pdb
